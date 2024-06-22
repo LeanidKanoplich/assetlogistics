@@ -7,7 +7,7 @@ import config
 
 {
 "secret_token": "2f6OpVEPB9nnhYLvrvgEWUp6fMy_3eNqobLfoSiapSgRSR73r",
-"url": "https://843a1a6f02ce.ngrok.ap/telegram"
+"url": "https://b9aac6f02626.ngrok.app/telegram"
 }
 
 router = APIRouter(
